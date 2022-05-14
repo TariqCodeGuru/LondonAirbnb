@@ -3,7 +3,7 @@
 ## Installations
 You need to have a jupyter notebook environment installed on your pc/mac along with version Python version 3.9. The code is not tested on other versions of Python.
 
-Before running the Jupyter Notebook, you have to download the dataset for london from Inside Airbnb from http://insideairbnb.com/get-the-data/. The data has to be unzipped and placed in the csv/detailed/ path.
+Before running the Jupyter Notebook, you have to download the dataset for london from Inside Airbnb from http://insideairbnb.com/get-the-data/. The data has to be unzipped and placed in a csv/detailed/ path within the project folder.
 
 
 ## Project Motivation
@@ -13,7 +13,7 @@ The project is primarily focused on assessing a dataset including data on the Lo
 The project consists of 3 folders and 3 files (including this README file).
 
 #### Folders:
-csv: folder where all airbnb datasets from InsideAirbnb should be downloaded
+csv: Folder to be created. All airbnb datasets from InsideAirbnb should be downloaded and placed here.
 statistical-gis-boundaries-london: package produced by ONS that helps creating map charts which are used in the project
 
 #### Files:
